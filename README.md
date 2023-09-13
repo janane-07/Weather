@@ -1,2 +1,2 @@
 # janane-07.Weather
-DEMO: https://github.com/janane-07/Weather.git
+DEMO: gh repo clone janane-07/Weather
